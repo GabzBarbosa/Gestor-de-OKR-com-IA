@@ -1,3 +1,7 @@
+Uma aplicação para gerenciar Objetivos e Resultados-Chave (OKR), com a capacidade de gerar workflows de projetos usando IA para acelerar o planejamento estratégico.
+
+
+
 # Run and deploy your AI Studio app
 
 This contains everything you need to run your app locally.
