@@ -1,0 +1,5 @@
+{
+  "name": "Gestor de OKR & KPI com IA",
+  "description": "Uma aplicação para gerenciar Objetivos e Resultados-Chave (OKR), com a capacidade de gerar workflows de projetos usando IA para acelerar o planejamento estratégico.",
+  "requestFramePermissions": []
+}
